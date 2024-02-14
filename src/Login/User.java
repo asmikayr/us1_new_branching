@@ -2,5 +2,6 @@ package Login;
 
 public class User {
 
-    //uer class created
+    //user class created
+    //user class updated
 }
